@@ -12,6 +12,12 @@ Optimized Cutting Layout: Utilize the rectpack library to generate an optimal la
 Visualization: View the optimized cutting layout with dimensions for each sub-piece.
 Adaptability: The tool can be easily adapted for similar optimization challenges in different industries.
 
+### Input Data
+<img src="Input.JPG?raw=true" />
+
+### Output Layout
+<img src="Output.png?raw=true" />
+
 ## Requirements
 Python 3.x
 Matplotlib (for visualization)
