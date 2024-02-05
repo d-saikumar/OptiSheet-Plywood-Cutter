@@ -20,7 +20,9 @@ Adaptability: The tool can be easily adapted for similar optimization challenges
 
 ## Requirements
 Python 3.x
+
 Matplotlib (for visualization)
+
 Rectpack library
 
 Install the required libraries using: pip install matplotlib rectpack
